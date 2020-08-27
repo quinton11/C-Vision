@@ -1,2 +1,2 @@
 # C-Vision
-hand detection for rock,paper,scissors
+Detect rock,paper,scissors hand gestures
